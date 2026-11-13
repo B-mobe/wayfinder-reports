@@ -1,19 +1,20 @@
 name: Data report
-description: Paste the report from /wf report in game.
+description: Paste the report from Settings > Help improve Wayfinder > Copy report.
 title: "Data report"
 labels: ["data-report"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve Wayfinder! In game, type `/wf report`,
-        click **Select all**, copy (Ctrl+C) and paste the text below.
+        Thanks for helping improve Wayfinder! In game, open
+        **Settings > Help improve Wayfinder > Copy report**, click
+        **Select all**, copy (Ctrl+C) and paste the text below.
         Please don't edit the text - it is checked automatically.
   - type: textarea
     id: report
     attributes:
       label: Report
-      description: The text from /wf report (it starts with WFR1).
+      description: The text from Copy report (it starts with WFR1).
       render: text
     validations:
       required: true

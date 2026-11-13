@@ -11,12 +11,16 @@ Wayfinder is more accurate for everyone.
 
 ## How to send a report
 
-1. In game, open Wayfinder's **Settings** and turn on
-   **Help improve Wayfinder** (it is off by default).
+1. Tick **Help improve Wayfinder** on the Welcome screen, or turn on
+   **Collect data for Wayfinder** under **Settings > Help improve
+   Wayfinder** (it is off by default, and can be turned off there any time).
 2. Play as usual. Wayfinder only writes down differences from its own data.
-3. Type `/wf report`, click **Select all** and copy the text (Ctrl+C).
+3. In **Settings > Help improve Wayfinder**, click **Copy report**, then
+   **Select all** and copy the text (Ctrl+C).
 4. Open a new issue here: **Issues > New issue > Data report**, paste the
    text into the box and submit.
+5. Back in game, click **Clear report** so the next report only has new
+   things in it.
 
 Several players reporting the same thing confirms it - so even if you think
 someone else has already sent it, your report still helps.

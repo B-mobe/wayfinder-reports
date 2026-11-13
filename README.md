@@ -28,7 +28,10 @@ Only game data:
 - quest IDs, NPC IDs and where you met them (zone and map coordinates)
 - quest rewards
 - dungeon entrance positions
-- the Wayfinder version, game ruleset (Era / SoD / Forever) and your faction
+- the Wayfinder version, the game version (Era / Hardcore / SoD / Forever,
+  with the client build number)
+- your faction, race, class and level (the level at the moment each thing
+  was noticed - quest availability depends on it)
 
 No character names, realm names, chat, account details or anything else.
 You can read the whole report before you paste it - it is plain text.

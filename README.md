@@ -16,11 +16,17 @@ Wayfinder is more accurate for everyone.
    Wayfinder** (it is off by default, and can be turned off there any time).
 2. Play as usual. Wayfinder only writes down differences from its own data.
 3. In **Settings > Help improve Wayfinder**, click **Copy report**, then
-   **Select all** and copy the text (Ctrl+C).
-4. Open a new issue here: **Issues > New issue > Data report**, paste the
-   text into the box and submit.
+   **Select all** and copy the link (Ctrl+C).
+4. Paste the link into your browser's address bar. The **Data report**
+   form here opens with your report already filled in - click **Create**.
+   (A long report is split into parts: click **Copy report** again for
+   each next part.)
 5. Back in game, click **Clear report** so the next report only has new
    things in it.
+
+Please don't edit the report text: it carries a checksum, and a changed
+report can't be read. Use the **Notes** box for anything you want to add.
+Reports are answered automatically, in English.
 
 Several players reporting the same thing confirms it - so even if you think
 someone else has already sent it, your report still helps.
